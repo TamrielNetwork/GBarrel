@@ -173,7 +173,7 @@ Project Link: [https://github.com/TamrielNetwork/GBarrel](https://github.com/Tam
 ## Acknowledgements
 
 * [README.md - othneildrew](https://github.com/othneildrew/Best-README-Template)
-* []()
+* [Initial Development - placeholder](https://example.com)
 * []()
 
 
