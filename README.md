@@ -86,7 +86,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Plugin to provide barrels with the size of a double-chest with MySQL-Support
+Spigot-Plugin to provide barrels with the size of a double-chest with MySQL-Support
 
 ### Built With
 
