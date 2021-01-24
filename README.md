@@ -38,7 +38,7 @@
   <h3 align="center">GBarrel</h3>
 
   <p align="center">
-    Global Boosters for Spigot and Paper
+    Double-Sized Barrels for Spigot and Paper
     <br />
     <a href="https://github.com/TamrielNetwork/GBarrel"><strong>Explore the docs »</strong></a>
     <br />
